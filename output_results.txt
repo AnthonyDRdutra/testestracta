@@ -1,0 +1,302 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+Experimente a nova plataforma cruzada PowerShell https://aka.ms/pscore6
+
+PS C:\Users\antho\PhpstormProjects\testestracta> php index.php
+Insira o captcha: x585vb
+Insira o CNPJ: 00063744000155
+Array
+(
+    [0] => Array
+        (
+            [CNPJ] => 00.063.744/0001-55
+            [Inscrição Estadual] => 90495297-48
+            [Nome Empresarial] => R O SILVA - COMERCIO DE ALIMENTOS - ME
+            [Logradouro] => RUA ARACI DE ALMEIDA
+            [Número] => 45
+            [Complemento] =>
+            [Bairro] => CJ VIVI XAVIER
+            [Município] => LONDRINA
+            [UF] => PR
+            [CEP] => 86.082-040
+            [Telefone] => (43)99849-0012
+            [E-mail] => R.O.ALIMENTOS@HOTMAIL.COM
+            [Atividade Econômica Principal] => 4729699 - COMERCIO VAREJISTA DE PRODUTOS ALIMENTICIOS EM GERAL OU ESPECIALIZADO EM PRODUTOS ALIMENTICIOS NAO ESPECIFICADOS ANTERIORMENTE
+            [Atividade(s) Econômica(s) Secundária(s)] => Array
+                (
+                    [0] => 4721103 - COMERCIO VAREJISTA DE LATICINIOS E FRIOS
+                    [1] => 4721104 - COMERCIO VAREJISTA DE DOCES, BALAS, BOMBONS E SEMELHANTES
+                    [2] => 4723700 - COMERCIO VAREJISTA DE BEBIDAS
+                    [3] =>
+                )
+
+            [Início das Atividades] => 09/2009
+            [Situação Atual] => HABILITADO - DESDE 09/2009
+            [Situação Cadastral] => ATIVO - DESDE 09/2009
+            [Regime Tributário] => REGIME NORMAL / NORMAL - DIA 12 DO MES+1
+        )
+
+    [1] => Array
+        (
+            [CNPJ] => 00.063.744/0001-55
+            [Inscrição Estadual] => 60128052-31
+            [Nome Empresarial] => ROBERTO OLIVEIRA DA SILVA
+            [Logradouro] => RUA ARACI DE ALMEIDA
+            [Número] => 45
+            [Complemento] => TERREO
+            [Bairro] => CJ VIVI XAVIER
+            [Município] => LONDRINA
+            [UF] => PR
+            [CEP] => 86.082-240
+            [Telefone] => NO CADASTRADO
+            [E-mail] => NÃO CADASTRADO
+            [Atividade Econômica Principal] => 4639701 - COMERCIO ATACADISTA DE PRODUTOS ALIMENTICIOS EM GERAL
+            [Início das Atividades] => 09/1994
+            [Situação Atual] =>
+            [Situação Cadastral] => BAIXADO - DESDE 02/1995
+            [Regime Tributário] => REGIME NORMAL / NORMAL - DIA 11 DO MES+1
+        )
+
+    [2] => Array
+        (
+            [CNPJ] => 00.063.744/0001-55
+            [Nome Empresarial] => ROBERTO OLIVEIRA DA SILVA
+            [Logradouro] => RUA ARACI DE ALMEIDA
+            [Número] => 45
+            [Complemento] =>
+            [Bairro] => CJ VIVI XAVIER
+            [Município] => LONDRINA
+            [UF] => PR
+            [CEP] => 86.082-240
+            [Telefone] => NO CADASTRADO
+            [E-mail] => NÃO CADASTRADO
+            [Atividade Econômica Principal] => 4639701 - COMERCIO ATACADISTA DE PRODUTOS ALIMENTICIOS EM GERAL
+            [Início das Atividades] => 01/1996
+            [Situação Atual] =>
+            [Situação Cadastral] => BAIXADO - DESDE 08/2009
+            [Regime Tributário] => REGIME NORMAL / NORMAL - DIA 13 DO MES+1
+        )
+
+)
+PS C:\Users\antho\PhpstormProjects\testestracta> php index.php
+Insira o captcha: 322pa
+Insira o CNPJ: 00080160000198
+Array
+(
+    [0] => Array
+        (
+            [CNPJ] => 00.080.160/0001-98
+            [Inscrição Estadual] => 83100105-46
+            [Nome Empresarial] => CELSO MUNHOZ LANCHONETE
+            [Logradouro] => RUA AROLDO SALVADOR RUIZ
+            [Número] => 200
+            [Complemento] =>
+            [Bairro] => CENTRO
+            [Município] => JAPURA
+            [UF] => PR
+            [CEP] => 87.225-000
+            [Telefone] => NO CADASTRADO
+            [E-mail] => NÃO CADASTRADO
+            [Atividade Econômica Principal] => 5611201 - RESTAURANTES E SIMILARES
+            [Início das Atividades] => 08/1995
+            [Situação Atual] =>
+            [Situação Cadastral] => BAIXADO - DESDE 05/2008
+            [Regime Tributário] => MICROEMPRESA / SIMPLES FAIXA A - DIA 18 DO MES+1
+        )
+
+    [1] => Array
+        (
+            [CNPJ] => 00.080.160/0001-98
+            [Inscrição Estadual] => 83200457-04
+            [Nome Empresarial] => CELSO MUNHOZ LANCHONETE
+            [Logradouro] => AV JOSE MADUREIRA
+            [Número] => 1038
+            [Complemento] => LOJA
+            [Bairro] => CENTRO
+            [Município] => SAO TOME
+            [UF] => PR
+            [CEP] => 87.220-000
+            [Telefone] => NO CADASTRADO
+            [E-mail] => NÃO CADASTRADO
+            [Atividade Econômica Principal] => 4723700 - COMERCIO VAREJISTA DE BEBIDAS
+            [Início das Atividades] => 06/1994
+            [Situação Atual] =>
+            [Situação Cadastral] => BAIXADO - DESDE 08/1995
+            [Regime Tributário] => MICROEMPRESA / MICROEMPRESA SEM FAIXA - PRAZO NAO APLICAVEL
+        )
+
+    [2] => Array
+        (
+            [CNPJ] => 00.080.160/0001-98
+            [Inscrição Estadual] => 90440420-93
+            [Nome Empresarial] => CELSO MUNHOZ LANCHONETE
+            [Logradouro] => RUA BORTOLO PELANDA
+            [Número] => 75
+            [Complemento] =>
+            [Bairro] => UMBARA
+            [Município] => CURITIBA
+            [UF] => PR
+            [CEP] => 81.940-210
+            [Telefone] => (44)3635-1117
+            [E-mail] => NÃO CADASTRADO
+            [Atividade Econômica Principal] => 5611201 - RESTAURANTES E SIMILARES
+            [Atividade(s) Econômica(s) Secundária(s)] => Array
+                (
+                    [0] =>
+                )
+
+            [Início das Atividades] => 05/2008
+            [Situação Atual] =>
+            [Situação Cadastral] => BAIXADO - DESDE 02/2014
+            [Regime Tributário] => SIMPLES NACIONAL / SIMPLES NACIONAL - PRAZO NAO APLICAVEL
+        )
+
+    [3] => Array
+        (
+            [CNPJ] => 00.080.160/0001-98
+            [Inscrição Estadual] => 90717364-04
+            [Nome Empresarial] => CELSO MUNHOZ LANCHONETE - ME
+            [Logradouro] => PCA SANTA CRUZ
+            [Número] => 1372
+            [Complemento] => SALA 01
+            [Município] => SAO JORGE DO IVAI
+            [UF] => PR
+            [CEP] => 87.190-000
+            [Telefone] => (44)3243-1222
+            [E-mail] => JCLALVORADA@HOTMAIL.COM
+            [Atividade Econômica Principal] => 5611203 - LANCHONETES, CASAS DE CHA, DE SUCOS E SIMILARES
+            [Atividade(s) Econômica(s) Secundária(s)] => Array
+                (
+                    [0] =>
+                )
+
+            [Início das Atividades] => 03/2016
+            [Situação Atual] =>
+            [Situação Cadastral] => BAIXADO - DESDE 02/2017
+            [Regime Tributário] => SIMPLES NACIONAL / SIMPLES NACIONAL - DIA 03 DO MES+2
+        )
+
+)
+PS C:\Users\antho\PhpstormProjects\testestracta> php index.php
+Insira o captcha: z6v62
+Insira o CNPJ: 00080782000116
+Array
+(
+    [0] => Array
+        (
+            [CNPJ] => 00.080.782/0001-16
+            [Inscrição Estadual] => 90121498-05
+            [Nome Empresarial] => FIASUL INDUSTRIA DE FIOS LTDA
+            [Logradouro] => AV MINISTRO CIRNE LIMA
+            [Número] => 3003
+            [Complemento] =>
+            [Bairro] => JARDIM COOPAGRO
+            [Município] => TOLEDO
+            [UF] => PR
+            [CEP] => 85.903-590
+            [Telefone] => (45)3055-7300
+            [E-mail] => SPEROTTO@SPEROTTO.COM.BR
+            [Atividade Econômica Principal] => 1311100 - PREPARACAO E FIACAO DE FIBRAS DE ALGODAO
+            [Atividade(s) Econômica(s) Secundária(s)] => Array
+                (
+                    [0] => 4623103 - COMERCIO ATACADISTA DE ALGODAO
+                    [1] => 4642701 - COMERCIO ATACADISTA DE ARTIGOS DO VESTUARIO E ACESSORIOS, EXCETO PROFISSIONAIS E DE SEGURANCA
+                    [2] => 4789099 - COMERCIO VAREJISTA DE OUTROS PRODUTOS NAO ESPECIFICADOS ANTERIORMENTE
+                    [3] => 3513100 - COMERCIO ATACADISTA DE ENERGIA ELETRICA
+                    [4] =>
+                )
+
+            [Início das Atividades] => 01/1997
+            [Situação Atual] => HABILITADO - DESDE 01/1997
+            [Situação Cadastral] => ATIVO - DESDE 01/1997
+            [Regime Tributário] => REGIME NORMAL / NORMAL - DIA 12 DO MES+1
+        )
+
+    [1] => Array
+        (
+            [CNPJ] => 00.080.782/0001-16
+            [Inscrição Estadual] => 41806455-22
+            [Nome Empresarial] => FIASUL INDUSTRIA DE FIOS LTDA
+            [Logradouro] => AV MIN CIRNE LIMA
+            [Número] => 2457
+            [Complemento] =>
+            [Bairro] => JARDIM COOPAGRO
+            [Município] => TOLEDO
+            [UF] => PR
+            [CEP] => 85.903-590
+            [Telefone] => (45)3277-1992
+            [E-mail] => NÃO CADASTRADO
+            [Atividade Econômica Principal] => 1311100 - PREPARACAO E FIACAO DE FIBRAS DE ALGODAO
+            [Início das Atividades] => 07/1994
+            [Situação Atual] =>
+            [Situação Cadastral] => BAIXADO - DESDE 02/1997
+            [Regime Tributário] => REGIME NORMAL / NORMAL - DIA 13 DO MES+1
+        )
+
+    [2] => Array
+        (
+            [CNPJ] => 00.080.782/0001-16
+            [Inscrição Estadual] => 90131328-84
+            [Nome Empresarial] => FIASUL INDUSTRIA DE FIOS LTDA
+            [Logradouro] => AV MIN CIRNE LIMA
+            [Número] => 3003
+            [Complemento] =>
+            [Bairro] => COOPAGRO
+            [Município] => TOLEDO
+            [UF] => PR
+            [CEP] => 85.903-590
+            [Telefone] => (45)3277-2377
+            [E-mail] => NÃO CADASTRADO
+            [Atividade Econômica Principal] => 1311100 - PREPARACAO E FIACAO DE FIBRAS DE ALGODAO
+            [Início das Atividades] => 10/2002
+            [Situação Atual] =>
+            [Situação Cadastral] => BAIXADO - DESDE 10/2006
+            [Regime Tributário] => REGIME DIFERENCIADO / PRODEPAR - DECRETO 4323/01-PARCELAMENTO 48 MESES-G3
+        )
+
+    [3] => Array
+        (
+            [CNPJ] => 00.080.782/0001-16
+            [Inscrição Estadual] => 90551278-13
+            [Nome Empresarial] => FIASUL INDUSTRIA DE FIOS LTDA
+            [Logradouro] => AV MINISTRO CIRNE LIMA
+            [Número] => 3003
+            [Complemento] =>
+            [Bairro] => JARDIM COOPAGRO
+            [Município] => TOLEDO
+            [UF] => PR
+            [CEP] => 85.903-590
+            [Telefone] => (45)3055-7300
+            [E-mail] => NÃO CADASTRADO
+            [Atividade Econômica Principal] => 1311100 - PREPARACAO E FIACAO DE FIBRAS DE ALGODAO
+            [Início das Atividades] => 02/2011
+            [Situação Atual] =>
+            [Situação Cadastral] => BAIXADO - DESDE 02/2015
+            [Regime Tributário] => REGIME DIFERENCIADO / BOM EMPREGO - DECRETO 6363/10 - 48 MESES - 90%
+        )
+
+    [4] => Array
+        (
+            [CNPJ] => 00.080.782/0001-16
+            [Inscrição Estadual] => 90758818-16
+            [Nome Empresarial] => FIASUL INDUSTRIA DE FIOS LTDA
+            [Logradouro] => AV MINISTRO CIRNE LIMA
+            [Número] => 3003
+            [Complemento] =>
+            [Bairro] => JARDIM COOPAGRO
+            [Município] => TOLEDO
+            [UF] => PR
+            [CEP] => 85.903-590
+            [Telefone] => (45)3055-7300
+            [E-mail] => SPEROTTO@SPEROTTO.COM.BR
+            [Atividade Econômica Principal] => 1311100 - PREPARACAO E FIACAO DE FIBRAS DE ALGODAO
+            [Início das Atividades] => 08/2017
+            [Situação Atual] =>
+            [Situação Cadastral] => BAIXADO - DESDE 08/2023
+            [Regime Tributário] => REGIME DIFERENCIADO / PARANA COMPETITIVO - DECRETO 630/2011 - 48 MESES - 90%
+        )
+
+)
+PS C:\Users\antho\PhpstormProjects\testestracta>
+
