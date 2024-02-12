@@ -5,15 +5,7 @@ CURL PHP
 
 ### Como usar
 O spider é capaz de retornar apenas CNPJs do estado do Paraná. 
-Para o utilizar basta que inicie index.php pela sua IDE carregando o projeto, ou pelo CMD pelos comandos:
-
-
--Para acessar a pasta em que se encontra o index.php:
-```
-c: \Users\SeuUsuario\ cd c: \Users\SeuUsuario\caminho__para_o_index\
-```
-
--Após acessar a pasta, realize o seguinte comando no CMD:
+Para o utilizar basta que clone o repostório e inicie index.php pela sua IDE carregando o projeto, ou pelo CMD pelos comandos:
 ```
 php index.php
 ```
