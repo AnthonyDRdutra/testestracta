@@ -27,6 +27,6 @@ php index.php
 
 
 ### Arquivos
-O arquivo index.php contém o código que realiza a chamada de nossa classe Spider.php, que está dentro da pasta src/, quanto iniciado o código ele realizará o download do arquivo .jpeg do captcha, que o usuário utilizará para resolver o captcha solicitado. 
+O arquivo ```index.php``` contém o código que realiza a chamada de nossa classe Spider.php, que está dentro da pasta ```src/```, quanto iniciado o código ele realizará o download do arquivo ```.jpeg``` do captcha, que o usuário utilizará para resolver o captcha solicitado. 
 
-Haverá também um arquivo .txt chamado "output_results", o qual mostra exemplos do output gerado pelo código. 
+Haverá também um arquivo ```.txt``` chamado ```output_results```, o qual mostra exemplos do output gerado pelo código. 
