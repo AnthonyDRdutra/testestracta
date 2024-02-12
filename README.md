@@ -1,4 +1,4 @@
-# teste
+# teste-eStracta
 Spider em PHP que CNPJ e captcha como input e retorna um array com os dados do CNPJ solicitado a partir dos dados disponíveis publicamente em http://www.sintegra.fazenda.pr.gov.br/.
 ## Tecnologias
 CURL PHP
