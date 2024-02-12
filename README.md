@@ -15,14 +15,17 @@ php index.php
 
 -Validação de input, prevenindo erro de input do usuário, além de retornar informação detalhada do erro direto da página:
 
-![error solver](https://github.com/AnthonyDRdutra/teste-eStracta/assets/97138694/0805ebf0-0c4f-4ca6-828a-77f0a6e399a3)
+![error solver](https://github.com/AnthonyDRdutra/teste-eStracta/assets/97138694/fe3ffb33-9bd5-4b06-a261-989168dc1f4f)
 
 
 
 -Retorno de dados em array chaveado:
 
-![arraychaveado](https://github.com/AnthonyDRdutra/teste-eStracta/assets/97138694/dca5f277-01a4-4398-9297-e795e46899c7)
+![arraychaveado](https://github.com/AnthonyDRdutra/teste-eStracta/assets/97138694/b2abea60-4316-40b5-b4a2-7c7df9d20f04)
+
 
 
 ### Arquivos
-O arquivo index.php contém o código que realiza a chamada de nossa classe Spider.php, que está dentro da pasta src/, quanto iniciado o código ele realizará o download do arquivo .jpeg do captcha, que o usuário utilizará para resolver o captcha solicitado. Haverá também um arquivo .txt chamado "output_results", o qual mostra exemplos do output gerado pelo código. 
+O arquivo index.php contém o código que realiza a chamada de nossa classe Spider.php, que está dentro da pasta src/, quanto iniciado o código ele realizará o download do arquivo .jpeg do captcha, que o usuário utilizará para resolver o captcha solicitado. 
+
+Haverá também um arquivo .txt chamado "output_results", o qual mostra exemplos do output gerado pelo código. 
