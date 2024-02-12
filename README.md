@@ -5,6 +5,7 @@ CURL PHP
 
 ### Como usar
 O spider é capaz de retornar apenas CNPJs do estado do Paraná. 
+
 Para o utilizar basta que clone o repostório (```https://github.com/AnthonyDRdutra/teste-eStracta.git``` ou ```gh repo clone AnthonyDRdutra/teste-eStracta```) e inicie index.php pela sua IDE carregando o projeto, ou pelo CMD pelos comandos:
 ```
 php index.php
