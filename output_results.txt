@@ -5,14 +5,14 @@ Experimente a nova plataforma cruzada PowerShell https://aka.ms/pscore6
 
 PS C:\Users\antho\PhpstormProjects\testestracta> php index.php
 Insira o captcha: x585vb
-Insira o CNPJ: 00063744000155
+Insira o CNPJ: XXXXXXXXXXXXXX
 Array
 (
     [0] => Array
         (
-            [CNPJ] => 00.063.744/0001-55
-            [Inscrição Estadual] => 90495297-48
-            [Nome Empresarial] => R O SILVA - COMERCIO DE ALIMENTOS - ME
+            [CNPJ] => XXXXXXXXXXXXXX
+            [Inscrição Estadual] => XXXXXXXXXXXXXX
+            [Nome Empresarial] => XXXXXXXXXXXXXX
             [Logradouro] => RUA ARACI DE ALMEIDA
             [Número] => 45
             [Complemento] =>
@@ -20,8 +20,8 @@ Array
             [Município] => LONDRINA
             [UF] => PR
             [CEP] => 86.082-040
-            [Telefone] => (43)99849-0012
-            [E-mail] => R.O.ALIMENTOS@HOTMAIL.COM
+            [Telefone] => XXXXXXXXXXXXXX
+            [E-mail] => XXXXXXXXXXXXXX
             [Atividade Econômica Principal] => 4729699 - COMERCIO VAREJISTA DE PRODUTOS ALIMENTICIOS EM GERAL OU ESPECIALIZADO EM PRODUTOS ALIMENTICIOS NAO ESPECIFICADOS ANTERIORMENTE
             [Atividade(s) Econômica(s) Secundária(s)] => Array
                 (
@@ -39,9 +39,9 @@ Array
 
     [1] => Array
         (
-            [CNPJ] => 00.063.744/0001-55
-            [Inscrição Estadual] => 60128052-31
-            [Nome Empresarial] => ROBERTO OLIVEIRA DA SILVA
+            [CNPJ] => XXXXXXXXXXXXXX
+            [Inscrição Estadual] => XXXXXXXXXXXXXX
+            [Nome Empresarial] => XXXXXXXXXXXXXX
             [Logradouro] => RUA ARACI DE ALMEIDA
             [Número] => 45
             [Complemento] => TERREO
@@ -60,8 +60,8 @@ Array
 
     [2] => Array
         (
-            [CNPJ] => 00.063.744/0001-55
-            [Nome Empresarial] => ROBERTO OLIVEIRA DA SILVA
+            [CNPJ] => XXXXXXXXXXXXXX
+            [Nome Empresarial] => XXXXXXXXXXXXXX
             [Logradouro] => RUA ARACI DE ALMEIDA
             [Número] => 45
             [Complemento] =>
@@ -81,14 +81,14 @@ Array
 )
 PS C:\Users\antho\PhpstormProjects\testestracta> php index.php
 Insira o captcha: 322pa
-Insira o CNPJ: 00080160000198
+Insira o CNPJ: XXXXXXXXXXXXXX
 Array
 (
     [0] => Array
         (
-            [CNPJ] => 00.080.160/0001-98
-            [Inscrição Estadual] => 83100105-46
-            [Nome Empresarial] => CELSO MUNHOZ LANCHONETE
+            [CNPJ] => XXXXXXXXXXXXXX
+            [Inscrição Estadual] => XXXXXXXXXXXXXX
+            [Nome Empresarial] => XXXXXXXXXXXXXX
             [Logradouro] => RUA AROLDO SALVADOR RUIZ
             [Número] => 200
             [Complemento] =>
@@ -107,11 +107,11 @@ Array
 
     [1] => Array
         (
-            [CNPJ] => 00.080.160/0001-98
-            [Inscrição Estadual] => 83200457-04
-            [Nome Empresarial] => CELSO MUNHOZ LANCHONETE
+            [CNPJ] => XXXXXXXXXXXXXX
+            [Inscrição Estadual] => XXXXXXXXXXXXXX
+            [Nome Empresarial] => XXXXXXXXXXXXXX
             [Logradouro] => AV JOSE MADUREIRA
-            [Número] => 1038
+            [Número] => XXXXXXXXXXXXXX
             [Complemento] => LOJA
             [Bairro] => CENTRO
             [Município] => SAO TOME
@@ -128,17 +128,17 @@ Array
 
     [2] => Array
         (
-            [CNPJ] => 00.080.160/0001-98
-            [Inscrição Estadual] => 90440420-93
-            [Nome Empresarial] => CELSO MUNHOZ LANCHONETE
+            [CNPJ] =>XXXXXXXXXXXXXX
+            [Inscrição Estadual] =>XXXXXXXXXXXXXX
+            [Nome Empresarial] =>XXXXXXXXXXXXXX
             [Logradouro] => RUA BORTOLO PELANDA
-            [Número] => 75
+            [Número] => XXXXXXXXXXXXXX
             [Complemento] =>
             [Bairro] => UMBARA
             [Município] => CURITIBA
             [UF] => PR
             [CEP] => 81.940-210
-            [Telefone] => (44)3635-1117
+            [Telefone] => XXXXXXXXXXXXXX
             [E-mail] => NÃO CADASTRADO
             [Atividade Econômica Principal] => 5611201 - RESTAURANTES E SIMILARES
             [Atividade(s) Econômica(s) Secundária(s)] => Array
@@ -154,17 +154,17 @@ Array
 
     [3] => Array
         (
-            [CNPJ] => 00.080.160/0001-98
-            [Inscrição Estadual] => 90717364-04
-            [Nome Empresarial] => CELSO MUNHOZ LANCHONETE - ME
+            [CNPJ] => XXXXXXXXXXXXXX
+            [Inscrição Estadual] => XXXXXXXXXXXXXX
+            [Nome Empresarial] => XXXXXXXXXXXXXX
             [Logradouro] => PCA SANTA CRUZ
             [Número] => 1372
             [Complemento] => SALA 01
             [Município] => SAO JORGE DO IVAI
             [UF] => PR
             [CEP] => 87.190-000
-            [Telefone] => (44)3243-1222
-            [E-mail] => JCLALVORADA@HOTMAIL.COM
+            [Telefone] => XXXXXXXXXXXXXX
+            [E-mail] => XXXXXXXXXXXXXX
             [Atividade Econômica Principal] => 5611203 - LANCHONETES, CASAS DE CHA, DE SUCOS E SIMILARES
             [Atividade(s) Econômica(s) Secundária(s)] => Array
                 (
@@ -180,22 +180,22 @@ Array
 )
 PS C:\Users\antho\PhpstormProjects\testestracta> php index.php
 Insira o captcha: z6v62
-Insira o CNPJ: 00080782000116
+Insira o CNPJ: XXXXXXXXXXXXXX
 Array
 (
     [0] => Array
         (
-            [CNPJ] => 00.080.782/0001-16
-            [Inscrição Estadual] => 90121498-05
-            [Nome Empresarial] => FIASUL INDUSTRIA DE FIOS LTDA
+            [CNPJ] => XXXXXXXXXXXXXX
+            [Inscrição Estadual] => XXXXXXXXXXXXXX
+            [Nome Empresarial] =>XXXXXXXXXXXXXX
             [Logradouro] => AV MINISTRO CIRNE LIMA
-            [Número] => 3003
+            [Número] => XXXXXXXXXXXXXX
             [Complemento] =>
             [Bairro] => JARDIM COOPAGRO
             [Município] => TOLEDO
             [UF] => PR
             [CEP] => 85.903-590
-            [Telefone] => (45)3055-7300
+            [Telefone] => XXXXXXXXXXXXXX
             [E-mail] => SPEROTTO@SPEROTTO.COM.BR
             [Atividade Econômica Principal] => 1311100 - PREPARACAO E FIACAO DE FIBRAS DE ALGODAO
             [Atividade(s) Econômica(s) Secundária(s)] => Array
@@ -215,17 +215,17 @@ Array
 
     [1] => Array
         (
-            [CNPJ] => 00.080.782/0001-16
-            [Inscrição Estadual] => 41806455-22
-            [Nome Empresarial] => FIASUL INDUSTRIA DE FIOS LTDA
+            [CNPJ] => XXXXXXXXXXXXXX
+            [Inscrição Estadual] => XXXXXXXXXXXXXX
+            [Nome Empresarial] => XXXXXXXXXXXXXX
             [Logradouro] => AV MIN CIRNE LIMA
-            [Número] => 2457
+            [Número] => XXXXXXXXXXXXXX
             [Complemento] =>
             [Bairro] => JARDIM COOPAGRO
             [Município] => TOLEDO
             [UF] => PR
             [CEP] => 85.903-590
-            [Telefone] => (45)3277-1992
+            [Telefone] => XXXXXXXXXXXXXX
             [E-mail] => NÃO CADASTRADO
             [Atividade Econômica Principal] => 1311100 - PREPARACAO E FIACAO DE FIBRAS DE ALGODAO
             [Início das Atividades] => 07/1994
@@ -236,9 +236,9 @@ Array
 
     [2] => Array
         (
-            [CNPJ] => 00.080.782/0001-16
-            [Inscrição Estadual] => 90131328-84
-            [Nome Empresarial] => FIASUL INDUSTRIA DE FIOS LTDA
+            [CNPJ] => XXXXXXXXXXXXXX
+            [Inscrição Estadual] => XXXXXXXXXXXXXX
+            [Nome Empresarial] => XXXXXXXXXXXXXX
             [Logradouro] => AV MIN CIRNE LIMA
             [Número] => 3003
             [Complemento] =>
@@ -246,7 +246,7 @@ Array
             [Município] => TOLEDO
             [UF] => PR
             [CEP] => 85.903-590
-            [Telefone] => (45)3277-2377
+            [Telefone] => XXXXXXXXXXXXXX
             [E-mail] => NÃO CADASTRADO
             [Atividade Econômica Principal] => 1311100 - PREPARACAO E FIACAO DE FIBRAS DE ALGODAO
             [Início das Atividades] => 10/2002
@@ -257,9 +257,9 @@ Array
 
     [3] => Array
         (
-            [CNPJ] => 00.080.782/0001-16
-            [Inscrição Estadual] => 90551278-13
-            [Nome Empresarial] => FIASUL INDUSTRIA DE FIOS LTDA
+            [CNPJ] => XXXXXXXXXXXXXX
+            [Inscrição Estadual] => XXXXXXXXXXXXXX
+            [Nome Empresarial] => XXXXXXXXXXXXXX
             [Logradouro] => AV MINISTRO CIRNE LIMA
             [Número] => 3003
             [Complemento] =>
@@ -267,7 +267,7 @@ Array
             [Município] => TOLEDO
             [UF] => PR
             [CEP] => 85.903-590
-            [Telefone] => (45)3055-7300
+            [Telefone] => XXXXXXXXXXXXXX
             [E-mail] => NÃO CADASTRADO
             [Atividade Econômica Principal] => 1311100 - PREPARACAO E FIACAO DE FIBRAS DE ALGODAO
             [Início das Atividades] => 02/2011
@@ -278,8 +278,8 @@ Array
 
     [4] => Array
         (
-            [CNPJ] => 00.080.782/0001-16
-            [Inscrição Estadual] => 90758818-16
+            [CNPJ] => XXXXXXXXXXXXXX
+            [Inscrição Estadual] =>XXXXXXXXXXXXXX
             [Nome Empresarial] => FIASUL INDUSTRIA DE FIOS LTDA
             [Logradouro] => AV MINISTRO CIRNE LIMA
             [Número] => 3003
@@ -288,8 +288,8 @@ Array
             [Município] => TOLEDO
             [UF] => PR
             [CEP] => 85.903-590
-            [Telefone] => (45)3055-7300
-            [E-mail] => SPEROTTO@SPEROTTO.COM.BR
+            [Telefone] => XXXXXXXXXXXXXX
+            [E-mail] =>XXXXXXXXXXXXXX
             [Atividade Econômica Principal] => 1311100 - PREPARACAO E FIACAO DE FIBRAS DE ALGODAO
             [Início das Atividades] => 08/2017
             [Situação Atual] =>
